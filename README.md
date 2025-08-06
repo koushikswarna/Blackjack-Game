@@ -1,1 +1,1 @@
-Blackjack game, simple, built in beginner/intermediate stages of learning.
+Blackjack game, has errors, built in beginner/intermediate stages of learning.
